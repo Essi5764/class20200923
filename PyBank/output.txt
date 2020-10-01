@@ -1,0 +1,8 @@
+----------------------------
+
+Financial Analysis
+----------------------------
+Total Months: 86
+Total: $38382578
+Greatest Increase in Revenue: ($999942)
+Greatest Decrease in Revenue: ($-1022534)
